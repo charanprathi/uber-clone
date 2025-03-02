@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: uber
-        image:devopsvmr/uber:latest
+        image: 248189943882.dkr.ecr.us-east-1.amazonaws.com/uber-clone
         ports:
         - containerPort: 3000  # Port your application listens on
 
